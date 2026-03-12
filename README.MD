@@ -111,7 +111,7 @@ The simulation results are visualized using bar graphs to compare the
 profit outcomes of different strategy matchups.
 
 <p align="center">
-  <img src="image_2026-03-12_182445032..png" width="600">
+  <img src="image_2026-03-12_182445032.png" width="600">
 </p>
 
 ## Technologies Used
@@ -132,5 +132,6 @@ Possible improvements include:
 * Simulating multiple competing firms
 * Visualizing results using graphs
 * Modeling other economic scenarios such as cartel pricing or price competition
+
 
 
